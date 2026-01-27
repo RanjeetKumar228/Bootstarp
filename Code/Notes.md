@@ -5,7 +5,7 @@ This is front-end framework that provides inbuilt CSS classes and javaSript comp
 website elements such as navbar, container, forms, buttons and layouts. 
 ```
 
-## Breakpoints
+## 1. Breakpoints
 
 ```commandline
 This is a predefined screen sizes that help create responsive layout for different devices.
@@ -13,10 +13,10 @@ This is a predefined screen sizes that help create responsive layout for differe
 
 Breakpoint	    Class infix	  Dimensions
 
-X-Small	            None	   <576px
-Small	            sm	       >=576px ........ 776px
-Medium	            md	       >=768px ........ 991px
-Large	            lg	       >=992px ........ 1199px 
-Extra large	        xl	       >=1200px ....... 1399px
 Extra extra large	xxl	       >=1400px 
+Extra large	        xl	       >=1200px ....... 1399px
+Large	            lg	       >=992px ........ 1199px
+Medium	            md	       >=768px ........ 991px
+Small	            sm	       >=576px ........ 776px 
+X-Small	            None	   <576px
 ```
