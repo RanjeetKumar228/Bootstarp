@@ -65,4 +65,288 @@
 
 .bannerContentBtn button:first-child{
     background: linear-gradient(to right, #0ACEFE, #2699FB);
+    color: #FFFFFF;
+}
+
+.bannerForm{
+    padding : 40px;
+    border-radius: 10px;
+}
+
+.bannerForm h3{
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.bannerForm button{
+    width: 100%;
+    padding: 10px 18px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+
+.counterSection h3{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 100%;
+    color: #2699FB;
+}
+
+.counterSection p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #43505B;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.highlights-Section {
+    background-color: #F7FAFF;
+}
+
+.highlights-Section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.highlights-Section p{
+    color: #0A2134;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.highlightItem h4{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #0A2134;
+}
+.highlightItem p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #43505B;
+}
+.highlights-Section button{
+    padding: 10px 38px;
+    border-radius: 8px;
+    border: 1px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    border-image: linear-gradient(to right, #0ACEFE, #2699FB) 1;
+    text-align: center;
+}
+
+.highlights-SectionBtn :first-child h1{
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.sectionPart h1{
+    font-weight: 700;
+    font-size: 44px;
+    color: #0A2134;
+    text-align: center;
+}
+.sectionPart p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+}
+
+.cesrtificateSection {
+    background-color: #F7FAFF;
+    
+}
+
+.certificateSection-1 h4{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    color: #0A2134;
+}
+.certificateSection-1 p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0A2134;
+}
+
+.certificateSection-1A h3,.certificateSection-1B h3,.certificateSection-1C h3{
+font-weight: 600;
+font-size: 20px;
+line-height: 100%;
+text-transform: capitalize;
+color: #0A2134;
+}
+
+.certificateSection-1A p .certificateSection-1B p,.certificateSection-1C p{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+}
+
+.certificateSection-2 img{
+    width: 468px;
+    height: 639px;
+    border-radius: 8px;
+    border-width: 1px;
+    padding-top: 18px;
+    padding-left: 28px;
+    background: url(../Images/bg-certificate.png) no-repeat left top;
+}
+
+.certificateSection-1 img{
+    width: 55px;
+    height: 55px;
+}
+
+.certificateSection-1D button{
+    padding: 10px 38px;
+    border-radius: 8px;
+    border: 1px;
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+}
+
+
+.certificateSection-1D :first-child h3{
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.img-box{
+    background: url(../Images/Rectangle554.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 64px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgSection :nth-child(n+2) img{
+  width: 35px;
+}
+
+.imgSection h3{
+  font-weight: 600;
+  font-size: 18px;
+  Line-height : 100%;
+  color: #0A2134;
+  padding-top: 20px;
+  padding-bottom: 7px;
+}
+
+.imgSection p{
+  font-weight: 400;
+  font-size: 15px;
+  Line-height : 22px;
+  color: #0A2134;
+ text-align: left;
+}
+
+.imgSectionBorder{
+    background: #FFFFFF;
+    padding: 15px;
+    border: 1px solid #F2F4F7;
+    border-radius: 8px;
+}
+
+.tabSection h1{
+    font-size: 44px;
+    font-weight: 700;
+    color: #0A2134;
+}
+.tabSection p{
+  font-size: 18px;
+  font-weight: 400px;
+  line-height: 27px;
+}
+
+
+.containerImg h3{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    color: #0A2134;
+}
+
+.containerImg{
+    background: #FFFFFF;
+    border-radius: 8px;
+    border: 1px;
+}
+
+.containerImg p{
+    font-size: 16px;
+    font-weight: 200;
+    text-align: start;
+
+}
+
+.marketing{
+    background: #F7FAFF;
+}
+
+
+.marketing h4{
+   font-size: 36px;
+   font-weight: 700; 
+   line-height: 100%;
+   color: #0A2134;
+   text-align: start;
+   padding-bottom: 15px;
+}
+
+.marketing p{
+    text-align: start;
+    font-size: 15px;
+    font-weight: 400;
+    color: #0A2134;
+    line-height: 22px;
+}
+
+.marketing :nth-child(n+2) p{
+   text-align: start;
+}
+
+.studentSection h1{
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 100%;
+    color: #0A2134;
+    text-align: center;
+}
+.studentSection p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #0A2134;
+    text-align: center;
+}
+
+.studentSectionCol p{
+    text-align: start;
+    font-size: 15px;
+    font-weight: 400;
+    color: #0A2134;
+    line-height: 22px;
+}
+
+.studentSectionCol h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0A2134;
+    line-height: 100%;
 }
